@@ -4,7 +4,7 @@ import streamlit as st
 import os
 
 # GitHub details
-github_token = "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"
+github_token = "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"
 repo_owner = "GeniusMundi10"
 repo_name = "streamlit-app-"
 repo_path = "input_pdfs"
