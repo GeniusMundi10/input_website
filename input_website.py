@@ -14,7 +14,7 @@ g = Github(github_token)
 repo = g.get_repo(f"{repo_owner}/{repo_name}")
 
 # Streamlit app
-st.title("PDF File Uploader to LegalGPT")
+st.title("PDF File Uploader to ELTGPT")
 
 # File upload
 uploaded_file = st.file_uploader("Choose a PDF file", type=["pdf"])
